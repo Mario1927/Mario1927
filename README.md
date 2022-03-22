@@ -19,7 +19,7 @@ How am I? 👨🏾‍🦱
 
 I'm Mario Hernández from Colombia, a full-stack developer 💻, geographer 🌎 and currently student of last semester of a master's degree in México 📒. 
 
-Why me? 👆🏾
+More about me 👆🏾
 
 Since my childhood I've always been interested in tech, loved playing games with friends, and try to discover new things on internet. 
 
